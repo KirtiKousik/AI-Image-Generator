@@ -2,14 +2,14 @@
 This project is a simple web application that uses the OpenAI API to generate images based on a user-provided prompt.
 
 ### Getting Started
-Clone the repository to your local machine.
-Open the app.js file and add your own API key.
-Run the HTML file in any browser.
+1. Clone the repository to your local machine.
+2. Open the app.js file and add your own API key.
+3. Run the HTML file in any browser.
 
 ### Usage
-Enter a prompt in the input field.
-Click the "Generate Images" button or press Enter.
-The application will generate four images based on the prompt.
+1. Enter a prompt in the input field.
+2. Click the "Generate Images" button or press Enter.
+3. The application will generate four images based on the prompt.
 
 ### API Key
 You will need to obtain an OpenAI API key in order to use this application. You can do this by following the instructions at https://openai.com/api/.
